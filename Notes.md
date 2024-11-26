@@ -9,3 +9,7 @@ Type definitions define the shape of the data available in the GraphQL API. They
 ## What are Resolvers?
 
 Resolvers are functions that determine how to fetch the data associated with each field in the schema.
+
+## UI
+
+- Aceternity UI for background
