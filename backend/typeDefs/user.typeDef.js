@@ -9,7 +9,6 @@ const userTypeDef = `#graphql
 
 # tell my schema what type of queries I can have for my users
   type Query {
-    users: [User!]
     authUser: User
     user(userId:ID!): User
   }
